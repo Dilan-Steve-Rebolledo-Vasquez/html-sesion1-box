@@ -1,0 +1,21 @@
+.elemento{
+    display: inline;
+    background-color: black;
+    color: white;
+}
+
+.elemento_block{
+    display:block;
+    background-color: dimgrey;
+    color: black;
+    width: 200px;
+    height: 200px;
+}
+
+.resaltado{
+    color:darkblue;
+    letter-spacing: 2px;
+    font-family: Arial;
+    font-size: large;
+    font-weight: bold;
+}
